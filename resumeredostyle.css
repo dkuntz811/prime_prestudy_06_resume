@@ -1,0 +1,131 @@
+
+
+
+button {
+	background-color: rgba(195, 224, 244, 1);
+	border-radius: 15px;
+	font-family: Garamond;
+	font-size: 20px;
+
+
+}
+
+body {
+	
+	background: #ffffff url(background.jpeg);
+
+	font-family: "Times New Roman", Helvetica, serif;
+
+	
+	
+
+}
+
+header {
+    
+	text-align: left;
+	text-indent: 10px;
+	background-color: rgba(195, 224, 244, 1);
+	border-radius: 15px 15px 15px 15px;
+	padding: 10px;
+	font-family: "Times New Roman", Helvetica, Garamond, serif;
+
+	margin-left: 0px;
+
+	}
+	.objective {
+
+		margin-left: 0px;
+		text-align: left;
+		text-indent: 5px;
+		margin-bottom: 20px;
+		padding-bottom: 5px;
+	}
+
+	.class {
+		text-indent: 20px;
+	}
+
+	.header img {
+		float: left;
+		border: 2px solid white;
+		
+
+	}
+
+	.linkedin button {
+		float: right;
+		margin-top: 12px;
+		
+	}
+
+	.qualifications {
+		text-indent: 10px;
+	}
+
+	.education {
+		padding-bottom: 5px;
+	}
+
+	.qualifications {
+
+		padding-bottom: 5px;
+	}
+
+
+	}
+
+ul li {
+	display: inline;
+	text-indent: 10px;
+}
+
+
+
+section {
+	background-color: rgba(195, 224, 244, 1);
+	background-image: url(images/texture-701398_960_720);
+	width: auto;
+	margin-bottom: 20px;
+	border-radius: 15px;
+
+
+
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h3 {
+	border: 2px rgba(100, 100, 100, 10); 
+	padding: 10px;
+	background-color: rgba(105, 178, 226, 1);
+	border-radius: 15px 15px 15px 15px;
+	text-align: left;
+	margin-bottom: 15px;
+
+	
+}
+p {
+	font-family: "Times New Roman";
+}
+
+h4 {
+	margin-left: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 5px;
+}
+
+
+
+
+
+
+
+h5 {
+	font-size: 17px;
+}
+
+
+
